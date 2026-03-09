@@ -1,0 +1,2 @@
+# rutlix
+Gravador de ISO para Linux — grava Windows 11/10 e qualquer distro Linux em pendrives USB com detecção automática, split de install.wim >4 GB, interface GTK3 sem terminal. Desenvolvido em C + Assembly x86-64. Disponível como .deb, AppImage e .rpm. 🌐 https://rutlix-linux.netlify.app
