@@ -1,0 +1,3 @@
+#!/bin/bash
+# Launcher gráfico — pede senha via pkexec (janela gráfica de autenticação)
+exec pkexec /usr/bin/rutlix "$@"

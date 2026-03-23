@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Rutlix Record
+Name[pt_BR]=Rutlix Record
+GenericName=ISO Writer
+GenericName[pt_BR]=Gravador de ISO
+Comment=Grave imagens ISO em pendrives USB com facilidade
+Comment[en]=Write ISO images to USB drives with ease
+Exec=rutlix-launcher
+Icon=rutlix
+Terminal=false
+Categories=Utility;System;
+Keywords=iso;usb;boot;pendrive;gravar;windows;linux;
+StartupNotify=true
